@@ -6,15 +6,15 @@
 
 ## About
 
-I'm a researcher and engineer working at the intersection of **distributed Large Language Models (dLLM)** and **Computer Vision**. My work focuses on making large-scale AI systems more efficient, scalable, and accessible through systems-level optimization and novel training paradigms.
+I'm a developer with a strong interest in **distributed Large Language Models (dLLM)** and **Computer Vision**. Currently learning and diving deeper into how large-scale AI systems work under the hood — from distributed training to visual understanding.
 
-- Exploring **distributed inference and training** strategies for LLMs across heterogeneous hardware
-- Investigating **vision-language model** architectures and multimodal reasoning
-- Building **high-performance systems** for ML workloads with a low-level engineering mindset
+- Learning about **distributed inference and training** strategies for LLMs
+- Studying **vision-language model** architectures and multimodal reasoning
+- Passionate about **low-level systems** and understanding things from the ground up
 
 ---
 
-## Research Interests
+## What I'm Studying
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ I'm a researcher and engineer working at the intersection of **distributed Large
 ## Tech Stack
 
 <details open>
-<summary><b>ML & Research</b></summary>
+<summary><b>ML & Learning</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,12 +86,12 @@ I'm a researcher and engineer working at the intersection of **distributed Large
 
 ---
 
-## Current Focus
+## Currently Learning
 
 ```text
-dLLM Research       ████████████████████░░   85%   Distributed inference & training at scale
-Computer Vision     ████████████████░░░░░░   70%   Vision-Language Models & ViT
-Systems Engineering ██████████████░░░░░░░░   60%   CUDA kernels & low-level optimization
+dLLM                ████████████████░░░░░░   70%   Distributed inference & training
+Computer Vision     ██████████████░░░░░░░░   60%   Vision-Language Models & ViT
+Systems Programming ████████████░░░░░░░░░░   50%   CUDA kernels & low-level optimization
 Open Source         ████████░░░░░░░░░░░░░░   35%   Contributing to ML ecosystem
 ```
 
