@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Entworacy&fontSize=60&fontColor=e94560&fontAlignY=35&desc=dLLM%20%7C%20Computer%20Vision%20%7C%20Systems&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Entworacy&fontSize=60&fontColor=e94560&fontAlignY=35&desc=dLLM%20%7C%20Computer%20Vision%20%7C%20Systems%20%7C%20Backend&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
 
 </div>
 
 ## About
 
-I'm a developer with a strong interest in **distributed Large Language Models (dLLM)**, **Computer Vision**, and **Linux Kernel / System Hacking**. Currently learning and diving deeper into how large-scale AI systems work under the hood, and how operating systems and security work at the lowest level.
+I'm a developer with a strong interest in **distributed Large Language Models (dLLM)**, **Computer Vision**, **Linux Kernel / System Hacking**, and **Backend Programming**. Currently learning and diving deeper into how large-scale AI systems work under the hood, and how operating systems and security work at the lowest level.
 
 - Learning about **distributed inference and training** strategies for LLMs
+- Researching **efficient multi-object tracking (MOT)** in Computer Vision
 - Studying **vision-language model** architectures and multimodal reasoning
 - Exploring **Linux kernel internals** and **system hacking** techniques
+- Studying **Backend Programming** and **Computer Science** fundamentals
 - Passionate about **low-level systems** and understanding things from the ground up
 
 ---
@@ -32,6 +34,7 @@ I'm a developer with a strong interest in **distributed Large Language Models (d
 <td width="50%" valign="top">
 
 ### Computer Vision
+- **Efficient Multi-Object Tracking (MOT)** — current research focus
 - Object detection and segmentation architectures
 - Vision Transformers (ViT) and hybrid models
 - Multimodal learning (Vision-Language Models)
@@ -52,6 +55,14 @@ I'm a developer with a strong interest in **distributed Large Language Models (d
 
 </td>
 <td width="50%" valign="top">
+
+### Backend & Computer Science
+- Server architecture and API design
+- Database systems and query optimization
+- Data structures and algorithms
+- Operating systems and networking fundamentals
+- Concurrency and distributed systems concepts
+
 </td>
 </tr>
 </table>
@@ -105,7 +116,9 @@ I'm a developer with a strong interest in **distributed Large Language Models (d
 
 ```text
 dLLM                ████████████████░░░░░░   70%   Distributed inference & training
-Computer Vision     ██████████████░░░░░░░░   60%   Vision-Language Models & ViT
+Computer Vision     ██████████████░░░░░░░░   60%   Multi-Object Tracking & Vision Models
+Backend Programming ██████████░░░░░░░░░░░░   45%   Server architecture & API design
+Computer Science    ████████████░░░░░░░░░░   50%   DS & Algorithms, OS, Networking
 Linux Kernel        ██████████░░░░░░░░░░░░   45%   Kernel internals & module development
 System Hacking      ████████░░░░░░░░░░░░░░   40%   Binary exploitation & reverse engineering
 Systems Programming ████████████░░░░░░░░░░   50%   CUDA kernels & low-level optimization
