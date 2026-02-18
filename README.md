@@ -1,56 +1,139 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Entworacy" />
+<div align="center">
 
-# Hello, 안녕하세요 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Entworacy&fontSize=60&fontColor=e94560&fontAlignY=35&desc=dLLM%20%7C%20Computer%20Vision%20%7C%20Systems&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> <h2>I'm...</h2>
-</summary>
-   <br>
-  
+</div>
 
-I'm a low-level developer.
-I am interested in and am developing shared scooter system technology.
-<br/>
-ARM(STM32) 개발과 백엔드 개발을 선호해요.
+## About
+
+I'm a developer with a strong interest in **distributed Large Language Models (dLLM)**, **Computer Vision**, and **Linux Kernel / System Hacking**. Currently learning and diving deeper into how large-scale AI systems work under the hood, and how operating systems and security work at the lowest level.
+
+- Learning about **distributed inference and training** strategies for LLMs
+- Studying **vision-language model** architectures and multimodal reasoning
+- Exploring **Linux kernel internals** and **system hacking** techniques
+- Passionate about **low-level systems** and understanding things from the ground up
+
+---
+
+## What I'm Studying
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Distributed LLM Systems
+- Model parallelism & pipeline parallelism strategies
+- Efficient inference on edge and heterogeneous clusters
+- Communication-efficient distributed training
+- Memory optimization for large-scale models
+- Quantization and pruning for deployment
+
+</td>
+<td width="50%" valign="top">
+
+### Computer Vision
+- Object detection and segmentation architectures
+- Vision Transformers (ViT) and hybrid models
+- Multimodal learning (Vision-Language Models)
+- Real-time inference optimization
+- Self-supervised and contrastive learning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Linux Kernel & System Hacking
+- Kernel module development and internals
+- System call tracing and hooking
+- Memory management and exploitation techniques
+- Binary analysis and reverse engineering
+- Privilege escalation and defense mechanisms
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>ML & Learning</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>Systems & Infrastructure</b></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </details>
 
 <details>
-  <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="2%" /> <h2>Operating System</h2>
-  </summary>
-  <br>
+<summary><b>Web & Application</b></summary>
+<br>
 
-  
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
 </details>
 
-<details>
-  <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="2%" /> <h2>Skills</h2>
-  </summary>
+---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entworacy)](https://github.com/anuraghazra/github-readme-stats)
+## Currently Learning
 
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-  ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![CLang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![cxx](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-</details>
+```text
+dLLM                ████████████████░░░░░░   70%   Distributed inference & training
+Computer Vision     ██████████████░░░░░░░░   60%   Vision-Language Models & ViT
+Linux Kernel        ██████████░░░░░░░░░░░░   45%   Kernel internals & module development
+System Hacking      ████████░░░░░░░░░░░░░░   40%   Binary exploitation & reverse engineering
+Systems Programming ████████████░░░░░░░░░░   50%   CUDA kernels & low-level optimization
+Open Source         ████████░░░░░░░░░░░░░░   35%   Contributing to ML ecosystem
+```
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+## GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=entworacy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=eaeaea" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entworacy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=entworacy&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" width="700" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+[![Gmail](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/entworacy)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer" width="100%" />
