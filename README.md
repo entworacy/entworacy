@@ -6,10 +6,11 @@
 
 ## About
 
-I'm a developer with a strong interest in **distributed Large Language Models (dLLM)** and **Computer Vision**. Currently learning and diving deeper into how large-scale AI systems work under the hood — from distributed training to visual understanding.
+I'm a developer with a strong interest in **distributed Large Language Models (dLLM)**, **Computer Vision**, and **Linux Kernel / System Hacking**. Currently learning and diving deeper into how large-scale AI systems work under the hood, and how operating systems and security work at the lowest level.
 
 - Learning about **distributed inference and training** strategies for LLMs
 - Studying **vision-language model** architectures and multimodal reasoning
+- Exploring **Linux kernel internals** and **system hacking** techniques
 - Passionate about **low-level systems** and understanding things from the ground up
 
 ---
@@ -37,6 +38,20 @@ I'm a developer with a strong interest in **distributed Large Language Models (d
 - Real-time inference optimization
 - Self-supervised and contrastive learning
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Linux Kernel & System Hacking
+- Kernel module development and internals
+- System call tracing and hooking
+- Memory management and exploitation techniques
+- Binary analysis and reverse engineering
+- Privilege escalation and defense mechanisms
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -91,6 +106,8 @@ I'm a developer with a strong interest in **distributed Large Language Models (d
 ```text
 dLLM                ████████████████░░░░░░   70%   Distributed inference & training
 Computer Vision     ██████████████░░░░░░░░   60%   Vision-Language Models & ViT
+Linux Kernel        ██████████░░░░░░░░░░░░   45%   Kernel internals & module development
+System Hacking      ████████░░░░░░░░░░░░░░   40%   Binary exploitation & reverse engineering
 Systems Programming ████████████░░░░░░░░░░   50%   CUDA kernels & low-level optimization
 Open Source         ████████░░░░░░░░░░░░░░   35%   Contributing to ML ecosystem
 ```
