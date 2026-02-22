@@ -6,7 +6,7 @@
 
 ## About
 
-I'm a developer with a strong interest in **distributed Large Language Models (dLLM)**, **Computer Vision**, **Linux Kernel / System Hacking**, and **Backend Programming**. Currently learning and diving deeper into how large-scale AI systems work under the hood, and how operating systems and security work at the lowest level.
+I'm a developer with a strong interest in **Diffusion Large Language Models (dLLM)**, **Computer Vision**, **Linux Kernel / System Hacking**, and **Backend Programming**. Currently learning and diving deeper into how large-scale AI systems work under the hood, and how operating systems and security work at the lowest level.
 
 - Learning about **distributed inference and training** strategies for LLMs
 - Researching **efficient multi-object tracking (MOT)** in Computer Vision
@@ -23,7 +23,7 @@ I'm a developer with a strong interest in **distributed Large Language Models (d
 <tr>
 <td width="50%" valign="top">
 
-### Distributed LLM Systems
+### Diffusion LLM Systems
 - Model parallelism & pipeline parallelism strategies
 - Efficient inference on edge and heterogeneous clusters
 - Communication-efficient distributed training
